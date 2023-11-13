@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EminmertToprak
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on IronHack
+- 💞️ I’m collaborate on IronHack
 - 📫 How to reach me mert.tprk@gmail.com
 
 <!---
