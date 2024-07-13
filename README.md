@@ -16,7 +16,6 @@ I'm open to collaboration opportunities, mentorship, or just a friendly chat abo
 
 ## Let's Connect
 
-- GitHub: [Mert Toprak's GitHub Profile](https://github.com/eminmerttoprak)
 - LinkedIn: [Mert Toprak's LinkedIn Profile](https://www.linkedin.com/in/mert-toprak)
 - Email: your.email@example.com
 - Portfolio: https://mert-toprak.netlify.app/
