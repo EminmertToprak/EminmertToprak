@@ -17,7 +17,7 @@ I'm open to collaboration opportunities, mentorship, or just a friendly chat abo
 ## Let's Connect
 
 - LinkedIn: [Mert Toprak's LinkedIn Profile](https://www.linkedin.com/in/mert-toprak)
-- Email: your.email@example.com
+- Email: mert.tprk@gmail.com
 - Portfolio: https://mert-toprak.netlify.app/
 
 ## Thank You!
