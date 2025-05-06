@@ -1,6 +1,6 @@
 # Welcome to Mert Toprak's GitHub Profile! 👋
 
-Hello! I'm Mert Toprak, a recent graduate in web development based in Utrecht. I'm actively seeking new opportunities and honing my skills by working on various projects.
+Hello! I'm Mert Toprak, a recent graduate in web development based in Netherlands. I'm actively seeking new opportunities and honing my skills by working on various projects.
 
 ## About Me
 
